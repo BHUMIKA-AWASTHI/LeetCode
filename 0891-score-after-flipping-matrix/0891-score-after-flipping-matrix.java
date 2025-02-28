@@ -25,6 +25,7 @@ class Solution {
         
         }
      }
+     //calculating the score
      int score =0,x=1;
      for(int j = n-1;j>=0;j--){
         for(int i =0;i<m;i++){

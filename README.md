@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0891-score-after-flipping-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |

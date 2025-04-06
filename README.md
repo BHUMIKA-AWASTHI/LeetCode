@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -69,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

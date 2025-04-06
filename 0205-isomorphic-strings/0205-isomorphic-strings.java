@@ -9,16 +9,19 @@ class Solution {
             else{
                 if(a[idx] != dh) return false;
             }
-        } 
-        char[] b = new char[128]; // '\0'
-        for(int i =0;i<t.length();i++){
+        }
+         for(int i =0;i<128;i++){
+            a[i]='\0';
+        }
+        for(int i =0;i<s.length();i++){
             char ch = t.charAt(i);
             char dh = s.charAt(i);
             int idx= (int )ch;
-            if(b[idx]== '\0') b[idx] = dh;
+            if(a[idx]== '\0') a[idx] = dh;
             else{
-                if(b[idx] != dh) return false;
+                if(a[idx] != dh) return false;
             }
-        }return true;
+        }
+        return true;
     }
 }

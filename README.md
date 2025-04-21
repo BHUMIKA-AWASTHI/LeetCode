@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0075-sort-colors) |
+| [0443-string-compression](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->

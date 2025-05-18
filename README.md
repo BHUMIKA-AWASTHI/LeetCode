@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0283-move-zeroes) |
 | [0891-score-after-flipping-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0443-string-compression) |
 ## Sorting
 |  |

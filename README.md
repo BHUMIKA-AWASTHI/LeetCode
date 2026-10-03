@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0443-string-compression) |
 ## Heap (Priority Queue)
 |  |

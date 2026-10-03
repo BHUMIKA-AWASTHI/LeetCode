@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0891-score-after-flipping-matrix) |
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0948-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |

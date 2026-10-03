@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |

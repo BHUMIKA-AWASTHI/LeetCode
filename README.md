@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |

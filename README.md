@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0898-transpose-matrix) |
 ## Math
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

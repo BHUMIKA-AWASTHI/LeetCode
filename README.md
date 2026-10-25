@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0066-plus-one) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/BHUMIKA-AWASTHI/LeetCode/tree/master/0412-fizz-buzz) |
